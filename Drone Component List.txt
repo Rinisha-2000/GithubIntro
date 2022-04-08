@@ -1,0 +1,10 @@
+Drone Component List:
+
+Flight Controller Board
+Power Distribution Board
+Power Module
+Telemetry
+Recevier
+Camera
+Buzzer
+GPS
