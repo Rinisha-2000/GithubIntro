@@ -8,3 +8,4 @@ Recevier
 Camera
 Buzzer
 GPS
+Battery
