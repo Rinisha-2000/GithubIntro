@@ -9,3 +9,4 @@ Camera
 Buzzer
 GPS
 Battery
+Propellers
