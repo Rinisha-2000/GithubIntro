@@ -10,3 +10,4 @@ Buzzer
 GPS
 Battery
 Propellers
+Electric Speed Controller
